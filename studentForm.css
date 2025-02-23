@@ -1,0 +1,106 @@
+body{
+    background-color:none;
+    background-image:url(background.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+
+.logo img{
+    
+    width:130px;
+    margin:30px 30px auto auto;
+}
+
+
+
+.frm{
+    
+    width:260px;
+    height:350px;
+    background-color:rgba(255,20,147, 0.5);
+    margin:0.5rem auto auto auto;
+    padding-left:20px;
+    padding-top:10px;
+    border-radius:5px;
+    
+    
+    
+}
+
+
+.stn{
+   text-align: center;
+    color:white;
+    
+   
+      
+}
+
+.under{
+    
+    size:1px; 
+    width:230px;
+    color:white;
+    margin:-0.5rem auto auto auto;
+    position: absolute;
+    padding-top:;
+}
+
+
+.std{
+    height:25px;
+    width:230px;
+    border:none;
+    margin-top:-0.5rem;
+}
+
+
+.psw{  
+
+    height:25px;
+    width:230px;
+    border:none;
+}
+
+
+.btn{
+    height:25px;
+    width:230px;
+    border:none;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    padding-top:10px; 
+    padding-bottom:25px;
+    
+    
+}
+
+
+
+.fgt{
+    
+    color:black;
+    float:right;
+    text-decoration:none;
+    padding-right:20px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+
+
+
+::placeholder{
+    font-weight:none;
+    color:black;
+    padding-left:5px;
+}
+
+.id-number label{
+
+           margin: 1.5rem auto auto auto;
+         
+}
